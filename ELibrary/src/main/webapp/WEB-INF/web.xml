@@ -4,14 +4,4 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-  
-  <servlet>
-	  <servlet-name>AdminLogin</servlet-name>
-	  <servlet-class>com.admin.LoginAdmin</servlet-class>
-  </servlet>
-  
-  <servlet-mapping>
-	  <servlet-name>AdminLogin</servlet-name>
-	  <url-pattern>/adminLogin</url-pattern>
-  </servlet-mapping>
 </web-app>
